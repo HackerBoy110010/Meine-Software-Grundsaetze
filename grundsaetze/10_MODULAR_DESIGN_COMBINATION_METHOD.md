@@ -156,15 +156,3 @@ Die Engine unterscheidet:
 ## Abgrenzung
 
 Die Methode ist kein einzelner Look und keine Sammlung bestimmter Farben. Sie ist eine allgemeine Architektur zur sicheren Kombination visueller Systeme. Konkrete Produkte können völlig unterschiedliche Achseninhalte verwenden und dennoch dieselbe Methode implementieren.
-
-## Schutz- und Veröffentlichungsstrategie
-
-Die abstrakte Methode allein ist regelmäßig schwer exklusiv zu schützen. Schutzfähiger beziehungsweise praktisch kontrollierbarer sind:
-
-- konkrete technische Implementierung und Quellcode,
-- genaue Spezifikation und Dokumentation,
-- Name und Logo der Methode,
-- konkrete erzeugte Designs,
-- möglicherweise eine nachweisbar neue technische Engine mit weiterem technischem Effekt.
-
-Details stehen in [Schutzrechte und Lizenzierung](11_DESIGN_IP_AND_LICENSING.md).

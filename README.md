@@ -1,6 +1,6 @@
 # Meine Software-Grundsätze
 
-Dieser Repository enthält allgemeine, produkt- und technologieunabhängige Grundsätze für verständliche, zugängliche, anpassbare und zuverlässige Software sowie eine ausführliche Referenzspezifikation für ein modulares Designsystem.
+Dieses Repository enthält allgemeine, produkt- und technologieunabhängige Grundsätze für verständliche, zugängliche, anpassbare und zuverlässige Software sowie eine ausführliche Referenzspezifikation für ein modulares Designsystem.
 
 > **Leitsatz:** Einfach und freundlich im Standard, nahezu grenzenlos anpassbar bei Bedarf.
 
@@ -30,11 +30,14 @@ Die vollständige Übersicht und die Review-Fragen stehen in [`grundsaetze/READM
 8. [Visuelles System und Individualisierung](grundsaetze/08_VISUAL_SYSTEM_AND_CUSTOMIZATION.md)
 9. [Engineering-Qualität und Experimente](grundsaetze/09_ENGINEERING_QUALITY.md)
 10. [Modulare Design-Kombinationstechnik](grundsaetze/10_MODULAR_DESIGN_COMBINATION_METHOD.md)
-11. [Schutzrechte und Lizenzierung](grundsaetze/11_DESIGN_IP_AND_LICENSING.md)
 
 ## Gesamtspezifikation
 
 Die [allgemeine Gesamtspezifikation des modularen adaptiven Designsystems](MODULARES_DESIGNSYSTEM_ALLGEMEINE_GESAMTSPEZIFIKATION.md) beschreibt unabhängige Designachsen, Tokens, Stil- und Palettenbibliotheken, Effekte, Accessibility, Projektintegration, Validierung und Kombinations-Engine. Illustrative Beispiele sind dabei von verbindlichen Regeln abgegrenzt.
+
+## Lizenzstatus
+
+Für die Inhalte dieses Repositorys ist derzeit keine allgemeine Lizenz festgelegt. Die in der Designsystem-Spezifikation erwähnten Lizenzfelder beziehen sich auf die Herkunfts- und Lizenzangaben importierter Themes und Assets; sie legen keine Lizenz für dieses Repository fest.
 
 ## Verbindlichkeit
 

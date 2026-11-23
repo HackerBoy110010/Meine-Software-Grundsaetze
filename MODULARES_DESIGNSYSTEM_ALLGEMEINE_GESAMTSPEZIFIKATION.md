@@ -662,7 +662,7 @@ Regeln:
 
 ## 13. Theme-Dateiformat
 
-Themes enthalten keine ausführbaren Skripte.
+Themes enthalten keine ausführbaren Skripte. Das Lizenzfeld im folgenden Beispiel beschreibt ausschließlich die Lizenz des jeweiligen Themes beziehungsweise seiner Assets; es legt keine Lizenz für dieses Repository fest.
 
 ```json
 {
@@ -1045,18 +1045,6 @@ Die Engine unterscheidet:
 ## Abgrenzung
 
 Die Methode ist kein einzelner Look und keine Sammlung bestimmter Farben. Sie ist eine allgemeine Architektur zur sicheren Kombination visueller Systeme. Konkrete Produkte können völlig unterschiedliche Achseninhalte verwenden und dennoch dieselbe Methode implementieren.
-
-## Schutz- und Veröffentlichungsstrategie
-
-Die abstrakte Methode allein ist regelmäßig schwer exklusiv zu schützen. Schutzfähiger beziehungsweise praktisch kontrollierbarer sind:
-
-- konkrete technische Implementierung und Quellcode,
-- genaue Spezifikation und Dokumentation,
-- Name und Logo der Methode,
-- konkrete erzeugte Designs,
-- möglicherweise eine nachweisbar neue technische Engine mit weiterem technischem Effekt.
-
-Schutz- und Lizenzfragen werden getrennt von der technischen Spezifikation bewertet.
 
 # Anhang B: Checkliste für produktunabhängige Übernahme
 

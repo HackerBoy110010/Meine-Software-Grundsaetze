@@ -44,10 +44,6 @@ Komponenten verwenden semantische Tokens statt harter Einzelwerte:
 - Jede Konfiguration besitzt Vorschau, Export und Reset.
 - Unbekannte Token werden ignoriert oder migriert, nicht blind als CSS/Code ausgeführt.
 
-## Originalität
-
-Wiedererkennbarkeit entsteht durch die konkrete Kombination aus Layout, Komponenten, Symbolsprache, Typografie, Bewegung und Markenführung. Allgemeine Stilbegriffe, Farben oder bekannte UI-Muster werden nicht als exklusives Eigentum behauptet.
-
 ## Abnahmekriterien
 
 - Alle Kernkomponenten funktionieren im Referenzzustand, Hochkontrastmodus und mit reduzierter Bewegung.

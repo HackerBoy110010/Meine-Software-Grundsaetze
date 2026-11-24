@@ -30,7 +30,6 @@ Visuelle Wirkung darf niemals Lesbarkeit, Bedienbarkeit, Datenschutz oder Dateni
 8. [Visuelles System und Individualisierung](08_VISUAL_SYSTEM_AND_CUSTOMIZATION.md)
 9. [Engineering-Qualität und Experimente](09_ENGINEERING_QUALITY.md)
 10. [Modulare Design-Kombinationstechnik](10_MODULAR_DESIGN_COMBINATION_METHOD.md)
-11. [Schutzrechte und Lizenzierung](11_DESIGN_IP_AND_LICENSING.md)
 
 ## Verbindlichkeit
 
